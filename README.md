@@ -14,9 +14,9 @@ I am an aspiring **Software Engineer** passionate about building clean, efficien
 ---
 
 ###  Featured Projects
-* **[Learning Management System (LMS)](https://github.com/wajihaSidd/my-projects/tree/main/Learning-Management-System)** - C#/.NET Core portal for education.
-* **[Software House System](https://github.com/wajihaSidd/my-projects/tree/main/softwareHouse_Management_System)** - Task tracking system using Node.js.
-* **[Weather Forecast System](https://github.com/wajihaSidd/my-projects/tree/main/WeatherForecast_Management_System)** - Java-based record maintenance.
+* **[Learning Management System (LMS)](https://github.com/wajihaSidd/my-projects/tree/main/Learning-Management-System)** - C#/.NET Core portal for education management.
+* **[Software House System](https://github.com/wajihaSidd/my-projects/tree/main/softwareHouse_Management_System)** - Task tracking system built with Node.js and PostgreSQL.
+* **[Weather Forecast System](https://github.com/wajihaSidd/my-projects/tree/main/WeatherForecast_Management_System)** - Java-based record maintenance system using DSA.
 
 ---
 
